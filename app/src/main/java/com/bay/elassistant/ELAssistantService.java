@@ -1,4 +1,4 @@
-package com.bay.elassistant;
+package com.pela.elassistant;
 
 import android.app.Service;
 import android.content.Intent;

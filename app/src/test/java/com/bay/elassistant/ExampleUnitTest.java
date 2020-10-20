@@ -1,4 +1,4 @@
-package com.bay.elassistant;
+package com.pela.elassistant;
 
 import org.junit.Test;
 
